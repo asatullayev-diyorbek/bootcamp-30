@@ -1,0 +1,19 @@
+{
+  "explorer.excludeGitIgnore": true,
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/*.dSYM": true,
+    "**/*.o": true,
+    "**/*.out": true,
+    "**/build": true,
+    "**/cmake-build-*": true
+  },
+  "search.exclude": {
+    "**/.DS_Store": true,
+    "**/*.dSYM": true,
+    "**/*.o": true,
+    "**/*.out": true,
+    "**/build": true,
+    "**/cmake-build-*": true
+  }
+}
