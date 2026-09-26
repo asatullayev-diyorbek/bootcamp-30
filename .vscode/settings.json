@@ -6,7 +6,8 @@
     "**/*.o": true,
     "**/*.out": true,
     "**/build": true,
-    "**/cmake-build-*": true
+    "**/cmake-build-*": true,
+    ".vscode": true
   },
   "search.exclude": {
     "**/.DS_Store": true,
@@ -17,3 +18,4 @@
     "**/cmake-build-*": true
   }
 }
+

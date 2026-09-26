@@ -1,0 +1,5 @@
+Cooler 50 200 150
+Sichqoncha 20 300 200
+Monitor 150 50 25
+Klaviatura 30 45 10
+Blok_Pitaniya 50 15 4
